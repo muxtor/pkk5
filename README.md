@@ -1,6 +1,6 @@
 Установка и проверку расширение: 
 --------------------------------------
-yii2-pkk5-component и yii2-pkk5-modile
+[yii2-pkk5-component](http://github.com/muxtor/yii2-pkk5-component)  и [yii2-pkk5-modile](http://github.com/muxtor/yii2-pkk5-modile)
 Эти расширение уже добавлено в composer.json
 * После клонирование проекта нужно обновить composer:
 ```
